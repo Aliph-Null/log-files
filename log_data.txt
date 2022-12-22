@@ -1,3 +1,1 @@
 Hello Wolrd!
-[] made a commit [1] with description [Clean up code] status pushed .
-[] made a commit [1] with description [Fix bug] status pushed .
