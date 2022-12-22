@@ -1,2 +1,10 @@
 Hello Wolrd!
 [] made a commit [1] with description [Add comments] status not pushed .
+[] made a commit [2] with description [Fix bug] status not pushed .
+[] made a commit [3] with description [Add feature] status not pushed .
+[] made a commit [4] with description [Clean up code] status not pushed .
+[] made a commit [5] with description [Add comments] status not pushed .
+[] made a commit [6] with description [Initial commit] status not pushed .
+[] made a commit [7] with description [Clean up code] status not pushed .
+[] made a commit [8] with description [Update code] status not pushed .
+[] made a commit [9] with description [Remove feature] status pushed .
