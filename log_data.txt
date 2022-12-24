@@ -1,8 +1,1 @@
 Hello Wolrd !
-[] made a commit [1] with description [Add tests] status not pushed .
-[] made a commit [2] with description [Add feature] status not pushed .
-[] made a commit [3] with description [Clean up code] status not pushed .
-[] made a commit [1] with description [Resolve conflicts] status not pushed .
-[] made a commit [2] with description [Update code] status not pushed .
-[] made a commit [1] with description [Merge branches] status not pushed .
-[] made a commit [2] with description [Merge branches] status pushed .
