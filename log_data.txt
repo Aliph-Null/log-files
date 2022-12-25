@@ -1,2 +1,8 @@
 Hello Wolrd!
 
+[] made a commit [1] with description [Fix bug] status not pushed .
+[] made a commit [2] with description [Add comments] status not pushed .
+[] made a commit [3] with description [Refactor code] status not pushed .
+[] made a commit [4] with description [Resolve conflicts] status not pushed .
+[] made a commit [5] with description [Initial commit] status pushed .
+[] made a commit [1] with description [Improve performance] status not pushed .
