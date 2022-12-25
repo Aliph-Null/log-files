@@ -11,3 +11,4 @@ Hello Wolrd!
 [] made a commit [4] with description [Resolve conflicts] status not pushed .
 [] made a commit [5] with description [Fix typos] status pushed .
 [] made a commit [1] with description [Add feature] status not pushed .
+[] made a commit [2] with description [Improve performance] status not pushed .
