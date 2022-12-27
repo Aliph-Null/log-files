@@ -20,3 +20,4 @@ Hello Wolrd!
 [] made a commit [1] with description [Clean up code] status pushed .
 [] made a commit [1] with description [Add comments] status not pushed .
 [] made a commit [2] with description [Remove feature] status not pushed .
+[] made a commit [3] with description [Fix bug] status not pushed .
