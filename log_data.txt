@@ -24,3 +24,4 @@ Hello Wolrd!
 [] made a commit [4] with description [Improve performance] status not pushed .
 [] made a commit [5] with description [Update code] status not pushed .
 [] made a commit [6] with description [Initial commit] status not pushed .
+[] made a commit [7] with description [Add feature] status not pushed .
