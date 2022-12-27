@@ -25,3 +25,4 @@ Hello Wolrd!
 [] made a commit [5] with description [Update code] status not pushed .
 [] made a commit [6] with description [Initial commit] status not pushed .
 [] made a commit [7] with description [Add feature] status not pushed .
+[] made a commit [8] with description [Add tests] status not pushed .
