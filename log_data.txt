@@ -27,3 +27,4 @@ Hello Wolrd!
 [] made a commit [7] with description [Add feature] status not pushed .
 [] made a commit [8] with description [Add tests] status not pushed .
 [] made a commit [9] with description [Update documentation] status pushed .
+[] made a commit [1] with description [Remove feature] status not pushed .
