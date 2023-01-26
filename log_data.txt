@@ -53,3 +53,4 @@ Hello Wolrd!
 [] made a commit [3] with description [Remove feature] status not pushed .
 [] made a commit [4] with description [Improve performance] status not pushed .
 [] made a commit [5] with description [Add tests] status pushed .
+[] made a commit [1] with description [Add tests] status not pushed .
