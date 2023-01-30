@@ -74,3 +74,4 @@ Hello Wolrd!
 [] made a commit [5] with description [Fix typos] status not pushed .
 [] made a commit [6] with description [Fix bug] status not pushed .
 [] made a commit [7] with description [Update documentation] status not pushed .
+[] made a commit [8] with description [Fix bug] status pushed .
