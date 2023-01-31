@@ -84,3 +84,4 @@ Hello Wolrd!
 [] made a commit [7] with description [Clean up code] status not pushed .
 [] made a commit [8] with description [Add comments] status not pushed .
 [] made a commit [9] with description [Clean up code] status not pushed .
+[] made a commit [10] with description [Initial commit] status pushed .
