@@ -76,3 +76,4 @@ Hello Wolrd!
 [] made a commit [7] with description [Update documentation] status not pushed .
 [] made a commit [8] with description [Fix bug] status pushed .
 [] made a commit [1] with description [Update code] status not pushed .
+[] made a commit [2] with description [Merge branches] status not pushed .
