@@ -98,3 +98,5 @@ Hello Wolrd!
 [] made a commit [3] with description [Fix bug] status pushed .
 [] made a commit [1] with description [Merge branches] status not pushed .
 [] made a commit [1] with description [Merge branches] status not pushed .
+[] made a commit [2] with description [Improve performance] status not pushed .
+[] made a commit [1] with description [Merge branches] status pushed .
