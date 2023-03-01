@@ -149,3 +149,4 @@ Hello Wolrd!
 [] made a commit [2] with description [Add feature] status not pushed .
 [] made a commit [3] with description [Add comments] status pushed .
 [] made a commit [1] with description [Clean up code] status not pushed .
+[] made a commit [2] with description [Add tests] status not pushed .
