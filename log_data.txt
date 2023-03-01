@@ -155,3 +155,4 @@ Hello Wolrd!
 [] made a commit [5] with description [Initial commit] status not pushed .
 [] made a commit [6] with description [Merge branches] status not pushed .
 [] made a commit [7] with description [Improve performance] status not pushed .
+[] made a commit [8] with description [Clean up code] status not pushed .
