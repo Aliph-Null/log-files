@@ -169,3 +169,4 @@ Hello Wolrd!
 [] made a commit [5] with description [Refactor code] status not pushed .
 [] made a commit [6] with description [Fix bug] status not pushed .
 [] made a commit [7] with description [Add tests] status not pushed .
+[] made a commit [8] with description [Fix bug] status not pushed .
