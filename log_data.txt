@@ -181,3 +181,4 @@ Hello Wolrd!
 [] made a commit [7] with description [Fix typos] status not pushed .
 [] made a commit [8] with description [Fix bug] status pushed .
 [] made a commit [1] with description [Resolve conflicts] status not pushed .
+[] made a commit [2] with description [Add comments] status not pushed .
