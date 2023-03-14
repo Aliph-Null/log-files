@@ -187,3 +187,4 @@ Hello Wolrd!
 [] made a commit [5] with description [Add feature] status not pushed .
 [] made a commit [6] with description [Refactor code] status not pushed .
 [] made a commit [7] with description [Merge branches] status pushed .
+[] made a commit [1] with description [Add tests] status pushed .
